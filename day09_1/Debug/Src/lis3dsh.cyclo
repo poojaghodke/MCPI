@@ -1,0 +1,5 @@
+../Src/lis3dsh.c:10:6:LIS_WriteIO	2
+../Src/lis3dsh.c:18:6:LIS_ReadIO	2
+../Src/lis3dsh.c:27:6:LIS_Init	1
+../Src/lis3dsh.c:32:10:LIS_GetData	1
+../Src/lis3dsh.c:48:5:LIS_DRdy	2
